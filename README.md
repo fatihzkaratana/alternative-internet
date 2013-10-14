@@ -86,6 +86,10 @@ Pull requests VERY welcome!
 
 [DeadC](http://deadc.net/) Create a one-click expiring link
 
+### Dead Drops
+
+[Dead Drops](http://deaddrops.com) is an anonymous, offline, peer to peer file-sharing network in public space. USB flash drives are embedded into walls, buildings and curbs accessible to anybody in public space.
+
 ### Drogulus
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
